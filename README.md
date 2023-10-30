@@ -2,9 +2,9 @@
 29704 Group 4
 
 # Team Members:
-Ryan Dean: @RDean45
-Ryan Kelly: @Rjk4133
-Cameron Smith:@camjshmitt
-Wyatt Smith: @wsmith1287 
-Mattie Garett: @MatGar22
-Lilly Wood: @lillywood21
+1. Ryan Kelly: @Rjk4133
+2. Ryan Dean: @RDean45
+3. Cameron Smith:@camjshmitt
+4. Mattie Garett: @MatGar22
+5. Lilly Wood: @lillywood21
+6. Wyatt Smith: @wsmith1287 
