@@ -51,5 +51,15 @@ Training Sessions store information on the session ID, the practice date, and mo
 1. Query 1 lists how the teams rank in terms of number of goals scored within their respective divisions and what percentage of the league total of goals scored each team accounts for.
 ![image](https://github.com/RDean45/MISTGroup4Project1/assets/148080144/b1377d73-534f-4968-b0bc-63cc998dd8c7)
 Query 1 allows the academy to see what teams score the most goals and their percentage share of total goals scored within the league. This information could be useful, as teams that score a higher percentage of goals in the league would be more likely to get moved to a higher skill division. Teams should be competitive in their division, but not overly competitive as this could result in a skill level imbalance.
-2. 
+2. Query 2 lists the players who are a captain for each team and the number of goals they have scored in their career at the academy. The results are ordered by the total number of goals they have scored descending.
+![image](https://github.com/RDean45/MISTGroup4Project1/assets/148080144/3c635ac5-b6f9-497a-8640-da0bdf3bbca3)
+
+3. Query 3 lists which coaches have canceled a practice and is ordered by the coach with the greatest number of cancellations descending.
+4. Query 4 lists the total amount of how much sponsorship money each team has received. The results are ordered by the total amount of money received descending.
+5. Query 5 lists the first and last name of coaches that have coached more than 10 years who’s specialization is conditioning.
+6. Query 6 lists the first and last names of players who are not on a team and the position they play.
+7. Query 7 lists the playerID, first name, last name, and number of penalties committed by players who have committed double the average penalties of an ordinary player in the league. The results are ordered by the number of penalties committed descending.
+8. Query 8 lists which players in the league have had a torn ACL before.
+9. Query 9 lists which coaches have more years of experience than the current head coach that they report to.
+10. Query 10 lists the number of goals scored by the winning team in each match classified as competitive and the results are ordered by matchID.
 # Database Information:
