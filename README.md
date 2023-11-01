@@ -70,9 +70,12 @@ Query 6 shows the soccer academy which players are available to join a team that
 ![image](https://github.com/RDean45/MISTGroup4Project1/assets/148080144/baa74ffe-48c2-41ca-a49c-0e5504d1d229)
 Query 7 helps coaches and teams figure out which players are more likely to have penalties than others, which can be an important stat for teams to track about their own players, and their opponents. From a behavioral standpoint as this is a youth league, it is important to identify who is committing far more penalties than their peers in order to intervene while they are still developing. This data can be used by coaches to organize meetings with their players in order to correct this behavior.
 8. Query 8 lists which players in the league have had a torn ACL before.
-
+![image](https://github.com/RDean45/MISTGroup4Project1/assets/148080144/af712885-422a-4d9b-b02e-13f46c752eb5)
+Query 8 shows which players in the Football club have had an ACL injury before. This is important information for the club to keep track of a major injury like this that keeps players out for up to 9 months. If they have a lot of non contact injuries, they might want to consider moving from turf to grass or other preventative measures. In addition to this, the data will show which players are most prone to injury and coaches can take precautions to protect their players.
 9. Query 9 lists which coaches have more years of experience than the current head coach that they report to.
-
+![image](https://github.com/RDean45/MISTGroup4Project1/assets/148080144/1b4f29f6-2f06-4138-9b01-87fbc1521448)
+Query 9 highlights potential organizational mismanagement within teams and shows the assistant coaches who have more experience than the current head coach they report to. If the season does not go well, this list would provide the basis for potential organizational restructuring and list the coaches who could become the new head coach on their current team.![image
 10. Query 10 lists the number of goals scored by the winning team in each match classified as competitive and the results are ordered by matchID.
-
+![image](https://github.com/RDean45/MISTGroup4Project1/assets/148080144/6500adb1-c10f-4663-83d0-9bf954df4700)
+Query 10 lists the total goals scored by a team that won or tied their match in matches that are classified as competitive. This is useful information as it provides a clear record of which team won each individual match in the matches that are competitive and can be used potentially as the basis of an exterior league standings table that assigns points based on wins and losses.
 # Database Information:
