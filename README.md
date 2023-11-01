@@ -128,5 +128,5 @@ Name of the database: ns_F2329704Group4
 
 Additional Information: Each query listed above is marked in the database using stored procedures which can be called using the following format: "CALL TP_QX()" where X is equal to the query number.
 
-# Chat GPT Logs:
+# ChatGPT Logs:
 https://chat.openai.com/share/1f833f36-10be-44eb-a8d2-274c12e57837
