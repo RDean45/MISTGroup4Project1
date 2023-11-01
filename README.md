@@ -32,6 +32,11 @@ Training Sessions store information on the session ID, the practice date, and mo
 ![image](https://github.com/RDean45/MISTGroup4Project1/assets/148080144/b740ed9c-8cea-4e99-a373-def0122ca7cb)
 
 # Data Dictionary:
+![image](https://github.com/RDean45/MISTGroup4Project1/assets/148080144/fd1bf9de-c141-48d6-b08c-f6f2a2337831)
+![image](https://github.com/RDean45/MISTGroup4Project1/assets/148080144/bf115d89-1977-4b77-9287-f58dc24f05bb)
+![image](https://github.com/RDean45/MISTGroup4Project1/assets/148080144/ef65353f-04c4-45bc-93dc-55118ea95b4b)
+![image](https://github.com/RDean45/MISTGroup4Project1/assets/148080144/87a95b5e-ddb7-499b-bc97-1f38174fd36f)
+![image](https://github.com/RDean45/MISTGroup4Project1/assets/148080144/cd03e9e8-0e51-4cbe-a96b-2671c5712bbe)
 
 # Ten Queries:
 
