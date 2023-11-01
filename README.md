@@ -46,7 +46,10 @@ Training Sessions store information on the session ID, the practice date, and mo
 ![image](https://github.com/RDean45/MISTGroup4Project1/assets/148080144/324e9fe8-e00b-4818-a0aa-556cc3bd4db4)
 ![image](https://github.com/RDean45/MISTGroup4Project1/assets/148080144/1b5b877a-3d2d-4002-a4f1-6bddae739793)
 
-
 # Ten Queries:
-
+![image](https://github.com/RDean45/MISTGroup4Project1/assets/148080144/e84a4a92-15bb-4fd3-977a-d5b05d59ee0d)
+1. Query 1 lists how the teams rank in terms of number of goals scored within their respective divisions and what percentage of the league total of goals scored each team accounts for.
+![image](https://github.com/RDean45/MISTGroup4Project1/assets/148080144/b1377d73-534f-4968-b0bc-63cc998dd8c7)
+Query 1 allows the academy to see what teams score the most goals and their percentage share of total goals scored within the league. This information could be useful, as teams that score a higher percentage of goals in the league would be more likely to get moved to a higher skill division. Teams should be competitive in their division, but not overly competitive as this could result in a skill level imbalance.
+2. 
 # Database Information:
