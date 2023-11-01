@@ -34,17 +34,29 @@ Training Sessions store information on the session ID, the practice date, and mo
 
 # Data Dictionary:
 ![image](https://github.com/RDean45/MISTGroup4Project1/assets/148080144/fd1bf9de-c141-48d6-b08c-f6f2a2337831)
+
 ![image](https://github.com/RDean45/MISTGroup4Project1/assets/148080144/bf115d89-1977-4b77-9287-f58dc24f05bb)
+
 ![image](https://github.com/RDean45/MISTGroup4Project1/assets/148080144/ef65353f-04c4-45bc-93dc-55118ea95b4b)
+
 ![image](https://github.com/RDean45/MISTGroup4Project1/assets/148080144/87a95b5e-ddb7-499b-bc97-1f38174fd36f)
+
 ![image](https://github.com/RDean45/MISTGroup4Project1/assets/148080144/cd03e9e8-0e51-4cbe-a96b-2671c5712bbe)
+
 ![image](https://github.com/RDean45/MISTGroup4Project1/assets/148080144/d87e990d-506b-438c-b5ba-3e92917b8a92)
+
 ![image](https://github.com/RDean45/MISTGroup4Project1/assets/148080144/402984b2-36db-41bb-a852-a1af8c9f8448)
+
 ![image](https://github.com/RDean45/MISTGroup4Project1/assets/148080144/a53985ab-d490-46c1-a836-120a5a5cc911)
+
 ![image](https://github.com/RDean45/MISTGroup4Project1/assets/148080144/cf43e3d2-7927-4b10-a5a0-2566259bcdb9)
+
 ![image](https://github.com/RDean45/MISTGroup4Project1/assets/148080144/96921523-a49a-4325-b705-052310954f30)
+
 ![image](https://github.com/RDean45/MISTGroup4Project1/assets/148080144/0adcb6e0-c79c-4394-a07c-5041e142d77c)
+
 ![image](https://github.com/RDean45/MISTGroup4Project1/assets/148080144/324e9fe8-e00b-4818-a0aa-556cc3bd4db4)
+
 ![image](https://github.com/RDean45/MISTGroup4Project1/assets/148080144/1b5b877a-3d2d-4002-a4f1-6bddae739793)
 
 # Ten Queries:
