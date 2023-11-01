@@ -57,8 +57,11 @@ Query 2 shows the captains of each team and a ranking of captains by number of g
 3. Query 3 lists which coaches have canceled a practice and is ordered by the coach with the greatest number of cancellations descending.
 ![image](https://github.com/RDean45/MISTGroup4Project1/assets/148080144/7a633dc1-1d94-4767-b38e-3ab69b29f37f)
 Query 3 allows the Georgia United Soccer Academy to see what coaches are canceling their field reservations and at what rate. This allows management to better manage field reservations, as coaches that tend to cancel their reservations most often get last pick after other coaches select their fields for practice.
+
 4. Query 4 lists the total amount of how much sponsorship money each team has received. The results are ordered by the total amount of money received descending.
+
 ![image](https://github.com/RDean45/MISTGroup4Project1/assets/148080144/68fbddf0-6a6d-4ba6-82c5-aba907c099f6)
+
 Query 4 shows the league how much money teams have received from their sponsors. This information can be used to spearhead fundraising and new sponsorship outreach efforts for teams with smaller cash inflows from sponsors. This can help teams keep down costs of travel and uniforms for its players.
 
 5. Query 5 lists the first and last name of coaches that have coached more than 10 years who’s specialization is conditioning.
