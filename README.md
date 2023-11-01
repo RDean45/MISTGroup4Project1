@@ -59,18 +59,20 @@ Query 2 shows the captains of each team and a ranking of captains by number of g
 Query 3 allows the Georgia United Soccer Academy to see what coaches are canceling their field reservations and at what rate. This allows management to better manage field reservations, as coaches that tend to cancel their reservations most often get last pick after other coaches select their fields for practice.
 4. Query 4 lists the total amount of how much sponsorship money each team has received. The results are ordered by the total amount of money received descending.
 ![image](https://github.com/RDean45/MISTGroup4Project1/assets/148080144/68fbddf0-6a6d-4ba6-82c5-aba907c099f6)
+
 Query 4 shows the league how much money teams have received from their sponsors. This information can be used to spearhead fundraising and new sponsorship outreach efforts for teams with smaller cash inflows from sponsors. This can help teams keep down costs of travel and uniforms for its players.
-5. Query 5 lists the first and last name of coaches that have coached more than 10 years who’s specialization is conditioning.
+6. Query 5 lists the first and last name of coaches that have coached more than 10 years who’s specialization is conditioning.
 ![image](https://github.com/RDean45/MISTGroup4Project1/assets/148080144/0935563a-89e6-46be-9418-98a4a24f7aba)
+
 Query 5 helps the Georgia United Soccer Academy identify conditioning coaches that may be up for promotion soon. The academy is always looking for Coaching Staff members that show loyalty and have coached for more than 10 years for promotions.
-6. Query 6 lists the first and last names of players who are not on a team and the position they play
+7. Query 6 lists the first and last names of players who are not on a team and the position they play
   
-7. Query 7 lists the playerID, first name, last name, and number of penalties committed by players who have committed double the average penalties of an ordinary player in the league. The results are ordered by the number of penalties committed descending.
+8. Query 7 lists the playerID, first name, last name, and number of penalties committed by players who have committed double the average penalties of an ordinary player in the league. The results are ordered by the number of penalties committed descending.
 
-8. Query 8 lists which players in the league have had a torn ACL before.
+9. Query 8 lists which players in the league have had a torn ACL before.
 
-9. Query 9 lists which coaches have more years of experience than the current head coach that they report to.
+10. Query 9 lists which coaches have more years of experience than the current head coach that they report to.
 
-10. Query 10 lists the number of goals scored by the winning team in each match classified as competitive and the results are ordered by matchID.
+11. Query 10 lists the number of goals scored by the winning team in each match classified as competitive and the results are ordered by matchID.
 
 # Database Information:
