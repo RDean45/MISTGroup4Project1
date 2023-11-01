@@ -60,22 +60,41 @@ Query 3 allows the Georgia United Soccer Academy to see what coaches are canceli
 4. Query 4 lists the total amount of how much sponsorship money each team has received. The results are ordered by the total amount of money received descending.
 ![image](https://github.com/RDean45/MISTGroup4Project1/assets/148080144/68fbddf0-6a6d-4ba6-82c5-aba907c099f6)
 Query 4 shows the league how much money teams have received from their sponsors. This information can be used to spearhead fundraising and new sponsorship outreach efforts for teams with smaller cash inflows from sponsors. This can help teams keep down costs of travel and uniforms for its players.
+
 5. Query 5 lists the first and last name of coaches that have coached more than 10 years who’s specialization is conditioning.
+
 ![image](https://github.com/RDean45/MISTGroup4Project1/assets/148080144/0935563a-89e6-46be-9418-98a4a24f7aba)
+
 Query 5 helps the Georgia United Soccer Academy identify conditioning coaches that may be up for promotion soon. The academy is always looking for Coaching Staff members that show loyalty and have coached for more than 10 years for promotions.
+
 6. Query 6 lists the first and last names of players who are not on a team and the position they play.
+
 ![image](https://github.com/RDean45/MISTGroup4Project1/assets/148080144/fe59d529-f9e5-4dce-941d-395799731913)
+
 Query 6 shows the soccer academy which players are available to join a team that are not already on one. This would allow coaches to search for players available to play certain positions where they may need another player and also lets the league know which children need to be placed with a team still.
+
 7. Query 7 lists the playerID, first name, last name, and number of penalties committed by players who have committed double the average penalties of an ordinary player in the league. The results are ordered by the number of penalties committed descending.
+
 ![image](https://github.com/RDean45/MISTGroup4Project1/assets/148080144/baa74ffe-48c2-41ca-a49c-0e5504d1d229)
+
 Query 7 helps coaches and teams figure out which players are more likely to have penalties than others, which can be an important stat for teams to track about their own players, and their opponents. From a behavioral standpoint as this is a youth league, it is important to identify who is committing far more penalties than their peers in order to intervene while they are still developing. This data can be used by coaches to organize meetings with their players in order to correct this behavior.
+
 8. Query 8 lists which players in the league have had a torn ACL before.
+
 ![image](https://github.com/RDean45/MISTGroup4Project1/assets/148080144/af712885-422a-4d9b-b02e-13f46c752eb5)
+
 Query 8 shows which players in the Football club have had an ACL injury before. This is important information for the club to keep track of a major injury like this that keeps players out for up to 9 months. If they have a lot of non contact injuries, they might want to consider moving from turf to grass or other preventative measures. In addition to this, the data will show which players are most prone to injury and coaches can take precautions to protect their players.
+
 9. Query 9 lists which coaches have more years of experience than the current head coach that they report to.
+
 ![image](https://github.com/RDean45/MISTGroup4Project1/assets/148080144/1b4f29f6-2f06-4138-9b01-87fbc1521448)
+
 Query 9 highlights potential organizational mismanagement within teams and shows the assistant coaches who have more experience than the current head coach they report to. If the season does not go well, this list would provide the basis for potential organizational restructuring and list the coaches who could become the new head coach on their current team.![image
+
 10. Query 10 lists the number of goals scored by the winning team in each match classified as competitive and the results are ordered by matchID.
+
 ![image](https://github.com/RDean45/MISTGroup4Project1/assets/148080144/6500adb1-c10f-4663-83d0-9bf954df4700)
+
 Query 10 lists the total goals scored by a team that won or tied their match in matches that are classified as competitive. This is useful information as it provides a clear record of which team won each individual match in the matches that are competitive and can be used potentially as the basis of an exterior league standings table that assigns points based on wins and losses.
+
 # Database Information:
